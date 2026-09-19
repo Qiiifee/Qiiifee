@@ -1,6 +1,6 @@
 <img width="1983" height="793" alt="profil" src="https://github.com/user-attachments/assets/7e226d8c-bf50-40d7-82a0-e5a8975f1ae4" />
 
-
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aqif2831) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aqiif._) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tsaqifkamil8@gmail.com) 
