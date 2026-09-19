@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="./assets/github-banner.gif" width="100%">
-</p>![Uploading ChatGPT Image Sep 20, 2026, 01_44_59 AM.png…]()
+  <img src=".Uploading ChatGPT Image Sep 20, 2026, 01_44_59 AM.png" width="100%">
+</p>
 
 
 
