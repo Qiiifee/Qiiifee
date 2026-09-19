@@ -47,7 +47,7 @@
   <img src="https://trophy.ryglcloud.net/?username=qiiifee&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Tsaqif Kamil's GitHub Trophies" />
 </p>
 
-### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=Qiiifee&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <p align="center">
