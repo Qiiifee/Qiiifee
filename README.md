@@ -7,7 +7,7 @@
 <tr>
 
 <!-- ================= LEFT / TEXT ================= -->
-<td width="30%" valign="middle">
+<td width="40%" valign="middle">
 
 - 💻 I'm currently working as a **Software Developer**
 - 🌱 I'm currently learning **Web Development**
@@ -17,11 +17,12 @@
 </td>
 
 <!-- ================= RIGHT / GIF ================= -->
-<td width="70%" align="center" valign="middle">
+<td width="60%" align="center" valign="middle">
 
 <img 
   src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
   width="90%"
+  height="250"
   alt="About Me Animation"
 />
 
