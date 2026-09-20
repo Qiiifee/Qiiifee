@@ -1,5 +1,6 @@
 <img width="1983" height="793" alt="profil" src="https://github.com/user-attachments/assets/7e226d8c-bf50-40d7-82a0-e5a8975f1ae4" />
 
+<img src="https://img.shields.io/badge/Software%20Developer-000000?style=flat-square&logo=code&logoColor=white" />
 
 <h2>👋 About Me</h2>
 
