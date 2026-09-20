@@ -3,26 +3,25 @@
 
 <h2>👋 About Me</h2>
 
-<table width="100%">
+<table>
 <tr>
+<td width="70%" valign="top">
 
-<td width="55%" valign="middle">
-
-- 💻 I'm currently working as a **Software Developer**
+- 💻 I'm currently working as a **Developer**
 - 🌱 I'm currently learning **Web Development**
-- 🖥️ I'm interested in **Networking & Technology**
-- 🇮🇩 I'm from **Indonesia**
+- 🖥️ Interested in **Networking & Technology**
+- 🇮🇩 From **Indonesia**
 
 </td>
 
-<td width="45%" align="center" valign="middle">
+<td width="70%" align="center">
 
-<img src="URL-GIF-KAMU" width="85%">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="627" height="300">
 
 </td>
-
 </tr>
 </table>
+
 
 
 ## 🌐 Socials:
