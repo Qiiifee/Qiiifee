@@ -3,7 +3,7 @@
 
 <h2>👋 About Me</h2>
 
-<table width="100%">
+<table width="100%" height="250">
 <tr>
 
 <!-- ================= LEFT / TEXT ================= -->
